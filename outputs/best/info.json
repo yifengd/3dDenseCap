@@ -1,0 +1,9 @@
+{
+    "num_train": 36665,
+    "num_eval_train": 562,
+    "num_eval_val": 141,
+    "num_train_scenes": 562,
+    "num_eval_train_scenes": 562,
+    "num_eval_val_scenes": 141,
+    "num_params": 32258885
+}
